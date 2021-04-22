@@ -1,0 +1,2 @@
+# coursera_assignments
+This is an assignment repository. Here you will find solutions to the assignments in the course that I am currently taking in Coursera. HTML, CSS and Java Script for Web Developers by Johns Hopkins University. Instructor is Yaakov Chaikin. I like the way this course has beeb arranged, with ample real and practical examples and assignments. I definetly recommend this course for beginners and medium level web developers. So get your thinking cap on, let's start developing some awesome websites.
